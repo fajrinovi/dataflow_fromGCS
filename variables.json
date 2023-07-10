@@ -1,0 +1,9 @@
+{
+    "ALL_KEYWORDS_BQ_OUTPUT_TABLE": "fellowship10.dataflow_citizen.citizen",
+    "BUCKET_NAME": "bucket-dataflow10",
+    "EVENTS_BQ_TABLE": "fellowship10.dataflow_citizen.citizen",
+    "GCS_STG_LOCATION": "gs://bucket-dataflow10/stg",
+    "GCS_TEMP_LOCATION": "gs://bucket-dataflow10/tmp",
+    "MOST_SEARCHED_KEYWORDS_BQ_OUTPUT_TABLE": "fellowship10.dataflow_citizen.citizen",
+    "PROJECT_ID": "fellowship10"
+}
